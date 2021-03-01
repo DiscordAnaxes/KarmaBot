@@ -6,7 +6,7 @@ const fetch = require('node-fetch')
 module.exports = {
     config: {
         name: 'npm',
-        description: 'Shows information about npm package',
+        description: 'Shows information about a npm package',
         aliases: ["npm"],
         usage: '<query>',
         accessableby: "",
